@@ -1,0 +1,12 @@
+{
+  "name": "gati-bulletin",
+  "version": "1.0.0",
+  "description": "GATI weekly Germany healthcare intelligence bulletin — GitHub Actions automation",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/bulletin.js"
+  }
+}
